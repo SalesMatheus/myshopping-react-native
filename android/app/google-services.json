@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "865117216332",
+    "project_id": "myshopping-324a4",
+    "storage_bucket": "myshopping-324a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865117216332:android:217931c45bdad068d51ee9",
+        "android_client_info": {
+          "package_name": "com.myshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865117216332-vavrm35ubh0p4s7ne7dp2krg6qo2o4vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeMU4LWS6UzfyflKMbx0o13I_E7UQnhow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865117216332-vavrm35ubh0p4s7ne7dp2krg6qo2o4vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865117216332:android:4ced4e2bbfaea51fd51ee9",
+        "android_client_info": {
+          "package_name": "com.salesmatheus.myshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865117216332-4eq0il9u5gheedsbg6s1e49qm1cs7nfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.salesmatheus.myshopping",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "865117216332-vavrm35ubh0p4s7ne7dp2krg6qo2o4vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeMU4LWS6UzfyflKMbx0o13I_E7UQnhow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865117216332-vavrm35ubh0p4s7ne7dp2krg6qo2o4vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
